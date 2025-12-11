@@ -1,4 +1,4 @@
-# api_client/config.py
+# okx_client/config.py
 import os
 from dotenv import load_dotenv
 from dataclasses import dataclass
