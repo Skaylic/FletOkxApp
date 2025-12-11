@@ -1,3 +1,4 @@
+# ui/market_view.py
 import flet as ft
 
 
