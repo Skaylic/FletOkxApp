@@ -1,3 +1,4 @@
+# okx_client/models.py
 """
 Модели базы данных SQLAlchemy
 """
