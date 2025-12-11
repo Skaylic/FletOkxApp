@@ -1,3 +1,5 @@
+# ui/account_view.py
+
 import flet as ft
 import pandas as pd
 from datetime import datetime
