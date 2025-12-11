@@ -1,3 +1,4 @@
+# ui/components/charts.py
 import flet as ft
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
