@@ -1,3 +1,4 @@
+# okx_client/database.py
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, scoped_session
 from okx_client.models import Base
