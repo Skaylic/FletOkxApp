@@ -1,3 +1,4 @@
+# ui/main_app.py
 import flet as ft
 import logging
 from datetime import datetime
