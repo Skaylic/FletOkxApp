@@ -1,3 +1,4 @@
+#okx_client/managers/public_data.py
 """
 Менеджер для работы с публичными данными OKX API
 """
