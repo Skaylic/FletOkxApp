@@ -1,3 +1,4 @@
+#okx_client/client.py
 """
 Основной клиент для работы с OKX API
 """
