@@ -1,3 +1,4 @@
+#okx_client/managers/trade.py
 """
 Менеджер для торговых операций OKX API
 """
