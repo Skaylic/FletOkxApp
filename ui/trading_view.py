@@ -1,3 +1,4 @@
+# ui/trading_view.py
 import flet as ft
 
 
