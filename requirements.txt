@@ -1,0 +1,6 @@
+flet~=0.28.3
+python-okx~=0.4.0
+sqlalchemy~=2.0.45
+python-dotenv~=1.2.1
+pandas>=2.3.3
+plotly>=6.5.0
