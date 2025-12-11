@@ -1,3 +1,4 @@
+#okx_client/managers/account.py
 """
 Менеджер для работы с данными аккаунта OKX API
 """
